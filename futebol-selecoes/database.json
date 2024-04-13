@@ -1,0 +1,138 @@
+[
+  {
+    "nome": "Brasil",
+    "titulosCopa": [
+      { "ano": 1958 },
+      { "ano": 1962 },
+      { "ano": 1970 },
+      { "ano": 1994 },
+      { "ano": 2002 }
+    ],
+    "goleadores": [
+      { "nome": "Pelé", "gols": 77 },
+      { "nome": "Ronaldo", "gols": 62 },
+      { "nome": "Zico", "gols": 48 }
+    ],
+    "estadio": "Maracanã",
+    "cores": ["Verde", "Amarelo"],
+    "tecnicoAtual": "Sem técnico"
+  },
+  {
+    "nome": "Alemanha",
+    "titulosCopa": [
+      { "ano": 1954 },
+      { "ano": 1974 },
+      { "ano": 1990 },
+      { "ano": 2014 }
+    ],
+    "goleadores": [
+      { "nome": "Miroslav Klose", "gols": 71 },
+      { "nome": "Gerd Müller", "gols": 68 },
+      { "nome": "Thomas Müller", "gols": 42 }
+    ],
+    "estadio": "Allianz Arena",
+    "cores": ["Preto", "Vermelho", "Dourado"],
+    "tecnicoAtual": "Hans-Dieter Flick"
+  },
+  {
+    "nome": "Argentina",
+    "titulosCopa": [{ "ano": 1978 }, { "ano": 1986 }, { "ano": 2022 }],
+    "goleadores": [
+      { "nome": "Lionel Messi", "gols": 76 },
+      { "nome": "Gabriel Batistuta", "gols": 54 },
+      { "nome": "Diego Maradona", "gols": 34 }
+    ],
+    "estadio": "Estadio Monumental",
+    "cores": ["Azul", "Branco"],
+    "tecnicoAtual": "Lionel Scaloni"
+  },
+  {
+    "nome": "Itália",
+    "titulosCopa": [
+      { "ano": 1934 },
+      { "ano": 1938 },
+      { "ano": 1982 },
+      { "ano": 2006 }
+    ],
+    "goleadores": [
+      { "nome": "Gigi Riva", "gols": 35 },
+      { "nome": "Luigi Di Biagio", "gols": 27 },
+      { "nome": "Paolo Rossi", "gols": 20 }
+    ],
+    "estadio": "Stadio Olimpico",
+    "cores": ["Azul", "Branco"],
+    "tecnicoAtual": "Luciano Spalletti"
+  },
+  {
+    "nome": "Uruguai",
+    "titulosCopa": [{ "ano": 1930 }, { "ano": 1950 }],
+    "goleadores": [
+      { "nome": "Óscar Míguez", "gols": 8 },
+      { "nome": "Héctor Scarone", "gols": 7 },
+      { "nome": "Pedro Petrone", "gols": 7 }
+    ],
+    "estadio": "Estadio Centenario",
+    "cores": ["Azul", "Branco"],
+    "tecnicoAtual": "Óscar Tabárez"
+  },
+  {
+    "nome": "França",
+    "titulosCopa": [{ "ano": 1998 }, { "ano": 2018 }],
+    "goleadores": [
+      { "nome": "Thierry Henry", "gols": 51 },
+      { "nome": "Michel Platini", "gols": 41 },
+      { "nome": "David Trezeguet", "gols": 34 }
+    ],
+    "estadio": "Stade de France",
+    "cores": ["Azul", "Branco", "Vermelho"],
+    "tecnicoAtual": "Didier Deschamps"
+  },
+  {
+    "nome": "Inglaterra",
+    "titulosCopa": [{ "ano": 1966 }],
+    "goleadores": [
+      { "nome": "Wayne Rooney", "gols": 53 },
+      { "nome": "Bobby Charlton", "gols": 49 },
+      { "nome": "Gary Lineker", "gols": 48 }
+    ],
+    "estadio": "Wembley Stadium",
+    "cores": ["Branco", "Azul"],
+    "tecnicoAtual": "Gareth Southgate"
+  },
+  {
+    "nome": "Espanha",
+    "titulosCopa": [{ "ano": 2010 }],
+    "goleadores": [
+      { "nome": "David Villa", "gols": 59 },
+      { "nome": "Fernando Torres", "gols": 38 },
+      { "nome": "Raúl", "gols": 44 }
+    ],
+    "estadio": "Santiago Bernabéu",
+    "cores": ["Vermelho", "Amarelo"],
+    "tecnicoAtual": "Luis Enrique"
+  },
+  {
+    "nome": "Holanda",
+    "titulosCopa": [],
+    "goleadores": [
+      { "nome": "Robin van Persie", "gols": 50 },
+      { "nome": "Klaas-Jan Huntelaar", "gols": 42 },
+      { "nome": "Dennis Bergkamp", "gols": 37 }
+    ],
+    "estadio": "Johan Cruijff Arena",
+    "cores": ["Laranja", "Branco", "Azul"],
+    "tecnicoAtual": "Louis van Gaal"
+  },
+  {
+    "nome": "Portugal",
+    "titulosCopa": [{ "ano": 2016 }],
+    "goleadores": [
+      { "nome": "Cristiano Ronaldo", "gols": 115 },
+      { "nome": "Eusébio", "gols": 41 },
+      { "nome": "Pauleta", "gols": 47 }
+    ],
+    "estadio": "Estádio da Luz",
+    "cores": ["Vermelho", "Verde"],
+    "tecnicoAtual": "Fernando Santos"
+  }
+]
